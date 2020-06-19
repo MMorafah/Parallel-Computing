@@ -36,6 +36,17 @@ MPI4py crash course Tutorials Slides: http://www.ceci-hpc.be/assets/training/mpi
 MPI for Python (PDF version of official website): https://buildmedia.readthedocs.org/media/pdf/mpi4py/stable/mpi4py.pdf <br /> 
 MPI More of the Story very nice slides (Recommended): http://geco.mines.edu/prototype/Show_me_some_local_HPC_tutorials/mpi4py/mpi02_py.pdf <br /> 
 MPI Very Nice Slides (Highly-Recommended): https://mosaic.mpi-cbg.de/docs/DCAMM/02_Tuesday_1.pdf <br /> 
+MPI for Python nice slides: https://www.bu.edu/pasi/files/2011/01/Lisandro-Dalcin-mpi4py.pdf <br /> 
+Parallel programming in Python: mpi4py (part 2): https://www.kth.se/blogs/pdc/2019/11/parallel-programming-in-python-mpi4py-part-2/ <br /> 
+A nice website: https://cvw.cac.cornell.edu/python/mpi4py <br /> 
+CSE 260 (HPC course)- Higly Recommended: http://www.cse.ucsd.edu/classes/wi08/cse260 <br /> 
+CSE 260 first Lecture PDF: http://cseweb.ucsd.edu/classes/wi08/cse260/Lectures/Lec01/Lec01.pdf <br /> 
+CSE 260 Isend/Irecv Lecture: http://cseweb.ucsd.edu/classes/fa06/cse260/Lectures/Lec03/Lec03.pdf <br /> 
+CSE 260 MPI Information: https://cseweb.ucsd.edu/classes/sp99/cse160/programming/mpi_info/mpi_info.html <br /> 
+CSE 260 On line resources - publications, documentation, software, courses, etc.: https://cseweb.ucsd.edu/~baden/Doc/#par-sci <br /> 
+CSE 260 MPI: https://cseweb.ucsd.edu/~baden/Doc/mpi.html <br /> 
+CSE 164B: http://cseweb.ucsd.edu/classes/fa98/cse164b/HomePage/descrip.html <br /> 
+MPI (C++) Datatypes: https://www.mpi-forum.org/docs/mpi-2.1/mpi21-report-bw/node330.htm <br /> 
 
 ### Youtube Video 
 

@@ -47,6 +47,8 @@ CSE 260 On line resources - publications, documentation, software, courses, etc.
 CSE 260 MPI: https://cseweb.ucsd.edu/~baden/Doc/mpi.html <br /> 
 CSE 164B: http://cseweb.ucsd.edu/classes/fa98/cse164b/HomePage/descrip.html <br /> 
 MPI (C++) Datatypes: https://www.mpi-forum.org/docs/mpi-2.1/mpi21-report-bw/node330.htm <br /> 
+Nice MPI slides: https://janth.home.xs4all.nl/MPIcourse/PDF/03_MPI_BasicsHandOut.pdf <br /> 
+Parallel Programming in MPI and OpenMP Book: http://enformtk.u-aizu.ac.jp/courses/hpc/EijkhoutParComp.pdf <br /> 
 
 ### Youtube Video 
 
@@ -60,6 +62,14 @@ Sentdex Asyncio - Asynchronous programming with coroutines - Intermediate Python
 
 https://bitbucket.org/mpi4py/mpi4py/issues/148/_pickleunpicklingerror-could-not-find-mark <br /> 
 https://bitbucket.org/mpi4py/mpi4py/issues?status=invalid <br /> 
+[mpi4py] Problem using isend/recv to send/receive large data structure:  https://groups.google.com/forum/#!searchin/mpi4py/isend$20irecv$20|sort:date/mpi4py/UlR2y7yQ9Fc/wqX0Fa-oCwAJ <br /> 
+irecv().test() errors. corrupted pickles? (Important): https://groups.google.com/forum/#!searchin/mpi4py/isend$20irecv$20|sort:date/mpi4py/fEsr9cOcohE/asGhI7SdAQAJ <br /> 
+message truncation error when passing numpy array to recv() (Important): https://groups.google.com/forum/#!searchin/mpi4py/isend$20irecv$20|sort:date/mpi4py/CrYXfzm7E0Y/GAVYh0YuEBwJ <br /> 
+ Experiences and Hints: https://groups.google.com/forum/#!searchin/mpi4py/isend$20irecv$20|sort:date/mpi4py/pp4wiwLWIMU/jkY0OR-iDVAJ <br /> 
+[mpi4py] how to best transfer image data, i.e. header + 2d array (Important): https://groups.google.com/forum/#!searchin/mpi4py/asynchronous|sort:date/mpi4py/uIfjIhkUxm4/G2ZjRedE6_AJ <br /> 
+ `MPI_ERR_TRUNCATE: message truncated` when using `Comm.irecv()` with messages larger than 32kb: https://bitbucket.org/mpi4py/mpi4py/issues/65/mpi_err_truncate-message-truncated-when <br /> 
+ 
+
 
 ## Other Resources 
 

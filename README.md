@@ -10,6 +10,7 @@ Official Pypi website: https://pypi.org/project/mpi4py/ <br />
 
 
 ## Guide and Tutorials 
+### Websites 
 
 MPI Website Official Tutorial: https://mpi4py.readthedocs.io/en/stable/tutorial.html <br />
 PDF from Yale University: https://research.computing.yale.edu/sites/default/files/files/mpi4py.pdf <br />
@@ -19,7 +20,16 @@ A very nice website for MPI4PY (Recommended): https://nyu-cds.github.io/python-m
 Github Repo with demo codes: https://github.com/mpi4py/mpi4py/tree/master/demo <br />
 A Very Nice Website for the Tree and Classes of MPI4PY (Highly Recommended): http://eups.linea.gov.br/external/mpi4py/mpi4py-1.3/docs/apiref/mpi4py.MPI-module.html <br />
 
+### Youtube Video 
+
+YCRC Bootcamp: Python MPI for Parallel Programming: https://www.youtube.com/watch?v=ZUFgEovC_WQ <br />
+Parallel Programming in Python Using MPI: https://www.youtube.com/playlist?list=PLagFkXs2BczZO4B_I6YhuS4xOxlSPgZuT <br />
+Introduction to parallel Programming -- Message Passing Interface (MPI): https://www.youtube.com/watch?v=aqySX4lpzn0 <br />
+Sentdex Supercomputing and Parallel Programming in Python and MPI: https://www.youtube.com/watch?v=GvNiP1yfbsc&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi&index=18 <br />
+ 
 
 ## Other Resources 
 
 Multi GPU, multi process with Tensorflow (Snake Game): https://towardsdatascience.com/multi-gpu-multi-process-with-tensorflow-ba4cc2fe3ab7 <br />
+Tensorflow GPU Guide: https://www.tensorflow.org/guide/gpu <br />
+

@@ -7,6 +7,7 @@ Download Package Manually: https://bitbucket.org/mpi4py/mpi4py/downloads/?tab=do
 Official MPI Website: https://mpi4py.readthedocs.io/en/stable/install.html <br />
 Installation on UBUNTU: http://selalib.gforge.inria.fr/install/ubuntu.html <br />
 Official Pypi website: https://pypi.org/project/mpi4py/ <br />
+Sentdex nstalling mpi4py for use with Python and MPI: https://pythonprogramming.net/installing-testing-mpi4py-mpi-python-tutorial/ <br />
 
 
 ## Guide and Tutorials 

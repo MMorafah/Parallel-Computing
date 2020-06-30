@@ -16,8 +16,8 @@ Sentdex nstalling mpi4py for use with Python and MPI: https://pythonprogramming.
 MPI Website Official Tutorial: https://mpi4py.readthedocs.io/en/stable/tutorial.html <br />
 PDF from Yale University: https://research.computing.yale.edu/sites/default/files/files/mpi4py.pdf <br />
 Advanced MPI Slides Pittsburg University (C++): https://www.psc.edu/images/xsedetraining/MPI/Advanced_MPI.pdf <br />
-A Very Nice Slide for MPI4Py (Recommended): https://portal.tacc.utexas.edu/documents/13601/1102030/4_mpi4py.pdf/f43b984e-4043-44b3-8225-c3ce03ecb93b <br />
-A very nice website for MPI4PY (Recommended): https://nyu-cds.github.io/python-mpi/05-collectives/ <br /> 
+A Very Nice Slide for MPI4Py (Recommended++): https://portal.tacc.utexas.edu/documents/13601/1102030/4_mpi4py.pdf/f43b984e-4043-44b3-8225-c3ce03ecb93b <br />
+A very nice website for MPI4PY (Recommended++): https://nyu-cds.github.io/python-mpi/05-collectives/ <br /> 
 Github Repo with demo codes: https://github.com/mpi4py/mpi4py/tree/master/demo <br />
 A Very Nice Website for the Tree and Classes of MPI4PY (Highly Recommended): http://eups.linea.gov.br/external/mpi4py/mpi4py-1.3/docs/apiref/mpi4py.MPI-module.html <br />
 Nice MPI4py Slide (HPC): https://www.hi-mainz.de/fileadmin/user_upload/IT/lectures/WiSe2019/HPC/files/Lecture_HPC_8_MPI_Python.pdf <br />

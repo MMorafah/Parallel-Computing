@@ -49,6 +49,11 @@ CSE 164B: http://cseweb.ucsd.edu/classes/fa98/cse164b/HomePage/descrip.html <br 
 MPI (C++) Datatypes: https://www.mpi-forum.org/docs/mpi-2.1/mpi21-report-bw/node330.htm <br /> 
 Nice MPI slides: https://janth.home.xs4all.nl/MPIcourse/PDF/03_MPI_BasicsHandOut.pdf <br /> 
 Parallel Programming in MPI and OpenMP Book: http://enformtk.u-aizu.ac.jp/courses/hpc/EijkhoutParComp.pdf <br /> 
+MPI Datatypes: https://www.mpi-forum.org/docs/mpi-2.1/mpi21-report-bw/node330.htm <br /> 
+MPI Fork Issues: http://gfs.sourceforge.net/wiki/index.php/System(),_popen(),_fork()_and_OpenMPI <br/> 
+
+
+
 
 ### Youtube Video 
 

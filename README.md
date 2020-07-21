@@ -52,8 +52,14 @@ Parallel Programming in MPI and OpenMP Book: http://enformtk.u-aizu.ac.jp/course
 MPI Datatypes: https://www.mpi-forum.org/docs/mpi-2.1/mpi21-report-bw/node330.htm <br /> 
 MPI Fork Issues: http://gfs.sourceforge.net/wiki/index.php/System(),_popen(),_fork()_and_OpenMPI <br/> 
 
-
-
+Slides from Cornell University: http://www.cac.cornell.edu/education/training/StampedeJune2013/IntroMPI-130611.pdf <br /> 
+Introduction to parallel programming and MPI: https://software.rc.fas.harvard.edu/training/Intro_to_MPI.pdf <br /> 
+Introduction to MPI-- Texas Advanced Computing Center: https://portal.tacc.utexas.edu/c/document_library/get_file?uuid=2d346261-1555-45ae-b404-72ff289e2986&groupId=13601 <br /> 
+Nice slides on Python in HPC: https://events.prace-ri.eu/event/806/attachments/833/1154/PRACE-PTC_Python_in_HPC__CSC_23.-25.1.19.pdf <br /> 
+PACE: Introduction to parallel computing (Higly Recommended): https://pace.gatech.edu/sites/default/files/pace_intro_to_parallelcomp.pdf
+MPI: Basic send and recv: https://janth.home.xs4all.nl/MPIcourse/PDF/03_MPI_Basics.pdf <br /> 
+MPI Communication (ping-pong, ...) From SDSU (Recommended): https://edoras.sdsu.edu/~mthomas/sp17.605/lectures/MPI-Comms-Perf.pdf <br /> 
+Hybrid MPI and OpneMP parallel programming: https://openmp.org/wp-content/uploads/HybridPP_Slides.pdf <br /> 
 
 ### Youtube Video 
 
@@ -63,6 +69,17 @@ Introduction to parallel Programming -- Message Passing Interface (MPI): https:/
 Sentdex Supercomputing and Parallel Programming in Python and MPI: https://www.youtube.com/watch?v=GvNiP1yfbsc&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi&index=18 <br />
 Sentdex Asyncio - Asynchronous programming with coroutines - Intermediate Python Programming: https://www.youtube.com/watch?v=BI0asZuqFXM <br />
  
+## Codes 
+
+Some Examples (C++): https://github.com/hpc/MPI-Examples <br /> 
+Torch MPI: https://github.com/facebookarchive/TorchMPI <br /> 
+Very Nice Sample Codes (C++) -- Highly Recommended: https://github.com/wesleykendall/mpitutorial <br /> 
+Nice mpi4py example codes: https://github.com/jbornschein/mpi4py-examples <br /> 
+
+## Books 
+
+A very nice Book (Recommended): http://www.sas.rochester.edu/psc/thestarlab/help/MPI_Course.pdf <br /> 
+An Introduction to MPI: https://www.mjr19.org.uk/courses/MPI/MPI.pdf <br /> 
 ## Debug and Forums 
 
 https://bitbucket.org/mpi4py/mpi4py/issues/148/_pickleunpicklingerror-could-not-find-mark <br /> 
@@ -73,6 +90,8 @@ message truncation error when passing numpy array to recv() (Important): https:/
  Experiences and Hints: https://groups.google.com/forum/#!searchin/mpi4py/isend$20irecv$20|sort:date/mpi4py/pp4wiwLWIMU/jkY0OR-iDVAJ <br /> 
 [mpi4py] how to best transfer image data, i.e. header + 2d array (Important): https://groups.google.com/forum/#!searchin/mpi4py/asynchronous|sort:date/mpi4py/uIfjIhkUxm4/G2ZjRedE6_AJ <br /> 
  `MPI_ERR_TRUNCATE: message truncated` when using `Comm.irecv()` with messages larger than 32kb: https://bitbucket.org/mpi4py/mpi4py/issues/65/mpi_err_truncate-message-truncated-when <br /> 
+
+MPI Forum Github: https://github.com/mpi-forum/mpi-forum.github.io <br /> 
  
 
 

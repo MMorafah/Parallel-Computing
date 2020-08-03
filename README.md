@@ -86,9 +86,13 @@ Ping Pong communication Repo--Recommended: https://github.com/hpcugent/mympingpo
 Avoiding DeadLocks (Highly Recommended): https://courses.cs.ut.ee/MTAT.08.020/2019_fall/uploads/Main/MPI_p2p-slides.pdf <br /> 
 https://www.futurelearn.com/courses/python-in-hpc/0/steps/65147 <br /> 
 https://www.csc.fi/documents/200270/224572/advanced_MPI.pdf/3a49a631-d403-4bbf-85ba-a8daf17f17d2 <br /> 
-
+Communication Completion: https://www.mcs.anl.gov/research/projects/mpi/mpi-standard/mpi-report-1.1/node47.htm <br /> 
+Probe and Cancel: https://www.mcs.anl.gov/research/projects/mpi/mpi-standard/mpi-report-1.1/node50.htm#Node50 <br /> 
+Multiple Completions: https://www.mcs.anl.gov/research/projects/mpi/mpi-standard/mpi-report-1.1/node49.htm#Node49 <br /> 
 ## Tree 
 https://www.mpich.org//static/docs/latest/ <br />
+http://eups.linea.gov.br/external/mpi4py/mpi4py-1.3/docs/apiref/mpi4py.MPI.Request-class.html <br /> 
+https://www.open-mpi.org/doc/v4.0/ <br /> 
 
 ## Books 
 

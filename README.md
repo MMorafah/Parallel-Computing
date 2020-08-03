@@ -60,6 +60,8 @@ PACE: Introduction to parallel computing (Higly Recommended): https://pace.gatec
 MPI: Basic send and recv: https://janth.home.xs4all.nl/MPIcourse/PDF/03_MPI_Basics.pdf <br /> 
 MPI Communication (ping-pong, ...) From SDSU (Recommended): https://edoras.sdsu.edu/~mthomas/sp17.605/lectures/MPI-Comms-Perf.pdf <br /> 
 Hybrid MPI and OpneMP parallel programming: https://openmp.org/wp-content/uploads/HybridPP_Slides.pdf <br /> 
+Introduction to MPI: https://courses.cs.washington.edu/courses/csep524/13wi/Thakur-MPI.pdf <br /> 
+ADVANCEDMPI 2.2 AND3.0 TUTORIAL--Highly Recommended: https://htor.inf.ethz.ch/teaching/mpi_tutorials/cscs12/hoefler_tutorial_advanced-mpi-2.2-and-mpi-3.0_cscs.pdf <br />
 
 ### Youtube Video 
 
@@ -75,11 +77,29 @@ Some Examples (C++): https://github.com/hpc/MPI-Examples <br />
 Torch MPI: https://github.com/facebookarchive/TorchMPI <br /> 
 Very Nice Sample Codes (C++) -- Highly Recommended: https://github.com/wesleykendall/mpitutorial <br /> 
 Nice mpi4py example codes: https://github.com/jbornschein/mpi4py-examples <br /> 
+A nice repo (MPI Tutorials): https://github.com/wesleykendall/mpitutorial/tree/gh-pages <br /> 
+Webpage of the above Repo: https://mpitutorial.com/tutorials/point-to-point-communication-application-random-walk/ <br /> 
+Introduction to parallel computing (async_ping_pong)--Highly Recommended: https://pace.gatech.edu/sites/default/files/pace_intro_to_parallelcomp.pdf <br />
+Ping Pong communication Repo--Recommended: https://github.com/hpcugent/mympingpong/tree/master/lib/vsc/mympingpong <br /> 
+
+## Non-blocking Communication 
+Avoiding DeadLocks (Highly Recommended): https://courses.cs.ut.ee/MTAT.08.020/2019_fall/uploads/Main/MPI_p2p-slides.pdf <br /> 
+https://www.futurelearn.com/courses/python-in-hpc/0/steps/65147 <br /> 
+https://www.csc.fi/documents/200270/224572/advanced_MPI.pdf/3a49a631-d403-4bbf-85ba-a8daf17f17d2 <br /> 
+
+## Tree 
+https://www.mpich.org//static/docs/latest/ <br />
 
 ## Books 
 
 A very nice Book (Recommended): http://www.sas.rochester.edu/psc/thestarlab/help/MPI_Course.pdf <br /> 
 An Introduction to MPI: https://www.mjr19.org.uk/courses/MPI/MPI.pdf <br /> 
+An Introduction to parallel computing: http://www.e-tahtam.com/~turgaybilgin/2013-2014-guz/ParalelProgramlama/ParallelProg.pdf <br /> 
+Message Passing Fundamentals (Recommended): http://www.sas.rochester.edu/psc/thestarlab/help/MPI_Course.pdf <br /> 
+Parallel Programming in MPI and OpenMP: http://faculty.salisbury.edu/~jtanderson/teaching/cosc420/fa19/files/mpi.pdf <br /> 
+MPI Course--Higly Recommended: http://www.sas.rochester.edu/psc/thestarlab/help/ <br /> 
+MPI: A Message-Passing Interface Standard2019 Draft Specification--Higly Recommended: https://www.mpi-forum.org/docs/drafts/mpi-2019-draft-report.pdf <br /> 
+
 ## Debug and Forums 
 
 https://bitbucket.org/mpi4py/mpi4py/issues/148/_pickleunpicklingerror-could-not-find-mark <br /> 
@@ -93,7 +113,7 @@ message truncation error when passing numpy array to recv() (Important): https:/
 
 MPI Forum Github: https://github.com/mpi-forum/mpi-forum.github.io <br /> 
  
-
+Jeff Hammond's BigMPI: 
 
 ## Other Resources 
 

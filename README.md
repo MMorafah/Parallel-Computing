@@ -71,6 +71,13 @@ Introduction to parallel Programming -- Message Passing Interface (MPI): https:/
 Sentdex Supercomputing and Parallel Programming in Python and MPI: https://www.youtube.com/watch?v=GvNiP1yfbsc&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi&index=18 <br />
 Sentdex Asyncio - Asynchronous programming with coroutines - Intermediate Python Programming: https://www.youtube.com/watch?v=BI0asZuqFXM <br />
  
+## Nice Slides 
+
+Parallel Implementation of Deep Learning Using MPI: https://cse.buffalo.edu/faculty/miller/Courses/CSE633/Ma-Spring-2014-CSE633.pdf <br /> 
+Asynchronous Parallel Methods: http://www.archer.ac.uk/training/course-material/2018/04/adv-mpi-exeter/Slides/L08-Asynchronous.pdf <br /> 
+Advanced MPI: https://htor.inf.ethz.ch/teaching/mpi_tutorials/isc16/hoefler-balaji-isc16-advanced-mpi.pdf <br /> 
+Advanced Parallel Programming withMPI-1, MPI-2, and MPI-3: https://htor.inf.ethz.ch/teaching/mpi_tutorials/ppopp13/2013-02-24-ppopp-mpi-advanced.pdf <br /> 
+
 ## Codes 
 
 Some Examples (C++): https://github.com/hpc/MPI-Examples <br /> 
